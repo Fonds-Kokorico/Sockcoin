@@ -1,6 +1,6 @@
 # Sockcoin
 
-# Sock Coin X Telegram
+
 
 ![Sock Coin Banner](https://github.com/Fonds-Kokorico/Sockcoin/blob/bf8faf68f332aa851d06b520869e9a9a15816808/Kokorico.png)
 
