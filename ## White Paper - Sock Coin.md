@@ -1,7 +1,7 @@
 # White Paper - Sock Coin
 
 
-![Sock Coin Banner](https://github.com/Fonds-Kokorico/Sockcoin/blob/bf8faf68f332aa851d06b520869e9a9a15816808/Kokorico.png)
+![Sock Coin Banner](https://github.com/Fonds-Kokorico/Sockcoin/blob/6f3f64ae5b5fc8ceed5ac00b3f6aaabecfabcaf9/SockCoin.png)
 
 
 
