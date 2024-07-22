@@ -2,6 +2,8 @@
 
 # Sock Coin X Telegram
 
+![Sock Coin Banner](chemin_vers_votre_image_banniere.png)
+
 ## White Paper - Sock Coin
 
 ### Welcome to the World of Sock Coin: The Stylish Meme Coin Serving Its Community! 🎉
@@ -30,17 +32,21 @@ Don't miss this unique opportunity to be part of a dynamic and fun community. Jo
 
 ## How to Participate
 
-1. Follow our [Telegram account](link_to_telegram) for the latest updates.
+1. Follow our [Telegram account](https://t.me/sockmemecoin) for the latest updates.
 2. Prepare your BNB for the free-price distribution phase.
 3. Stay tuned for the AirDrop announcement.
 4. Share the information with your friends and join the Sock Coin community!
 
+## Important Information
+
+- **Contract Address**: `0x3E097678aB790AACd8b42721099b3983f40aA827`
+- **Email**: support@sockcoin.io
+
 ## Useful Links
 
-- [Official Website](link_to_website)
-- [Telegram](link_to_telegram)
-- [Twitter](link_to_twitter)
-- [Discord](link_to_discord)
+- [Official Website](https://sockcoin.io)
+- [Telegram](https://t.me/sockmemecoin)
+- [Twitter](https://x.com/sockmemecoin)
 
 ## Disclaimer
 
