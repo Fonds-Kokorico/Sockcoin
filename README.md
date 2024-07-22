@@ -4,44 +4,44 @@
 
 ## White Paper - Sock Coin
 
-### Bienvenue dans le Monde de Sock Coin : La Crypto-monnaie Mème Stylée au Service de sa Communauté! 🎉
+### Welcome to the World of Sock Coin: The Stylish Meme Coin Serving Its Community! 🎉
 
-Sock Coin est une aventure collective où tout le monde reçoit beaucoup de Chaussettes. Imaginez : 80% de l'offre totale est distribuée à la communauté ! Voici comment cela fonctionne :
+Sock Coin is a collective adventure where everyone gets a lot of Socks. Imagine this: 80% of the total supply is distributed to the community! Here's how it works:
 
-#### Distribution des Tokens
+#### Token Distribution
 
-- **50% à Prix Libre** : Pendant 5 jours, vous pouvez envoyer n'importe quel montant de BNB à ce portefeuille, et en fonction de votre contribution, un pourcentage de Sock Coin vous sera alloué. Plus vous donnez, plus vous recevez, et moins vous aurez de chances d'avoir froid aux pieds !
+- **50% at Free Price**: For 5 days, you can send any amount of BNB to this wallet, and based on your contribution, a percentage of Sock Coin will be allocated to you. The more you give, the more you receive, and the less likely you'll have cold feet!
 
-- **30% en AirDrop** : Qui n'a pas de chaussettes trouées ou de pieds froids ? 30% de l'offre totale sera distribuée en airdrop à la communauté. Le pourcentage que vous recevez dépendra de votre participation initiale. Simple et efficace ! Soyez généreux, et nous le serons aussi !
+- **30% in AirDrop**: Who doesn't have holey Socks or cold feet? 30% of the total supply will be airdropped to the community. The percentage you receive will depend on your initial participation. Simple and effective! Be generous, and we will be too!
 
-- **10% Réservés aux Pools de Liquidité** : Une fois que les 50% de l'offre et l'AirDrop auront été distribués, des pools de liquidité seront créés pour assurer la stabilité et la fluidité des transactions. Vous pourrez échanger vos Sock Coins facilement.
+- **10% Reserved for Liquidity Pools**: Once the 50% supply and the AirDrop have been distributed, liquidity pools will be created to ensure stability and smooth transactions. You will be able to trade your Sock Coins with ease.
 
-- **5% pour l'Équipe** : Parce qu'une bonne équipe mérite sa récompense, 5% de l'offre est réservée à ceux qui travaillent dur pour faire de Sock Coin un succès.
+- **5% for the Team**: Because a good team deserves its reward, 5% of the supply is reserved for those working hard to make Sock Coin a success.
 
-- **5% pour les CEX** : Enfin, 5% de l'offre est réservée aux échanges centralisés (CEX), assurant une visibilité maximale et une accessibilité optimale.
+- **5% for CEX**: Finally, 5% of the supply is reserved for centralized exchanges (CEX), ensuring maximum visibility and optimal accessibility.
 
-### Rejoignez l'Aventure ! 🚀🧦
+### Join the Adventure! 🚀🧦
 
-Alors, êtes-vous prêt à rejoindre l'aventure Sock Coin ? Avec nous, c'est Sock to the Moon ! 🧦🚀
+So, are you ready to join the Sock Coin adventure? With us, it's Sock to the Moon! 🧦🚀
 
-Ne manquez pas cette opportunité unique de faire partie d'une communauté dynamique et amusante. Rejoignez-nous et aidez à lancer Sock "tooo the mooon" 🌕. Rejoignez l'#ArmeeDeChaussettes dès maintenant !
+Don't miss this unique opportunity to be part of a dynamic and fun community. Join us and help launch Sock "tooo the mooon" 🌕. Join the #SockArmy now!
 
 ---
 
-## Comment Participer
+## How to Participate
 
-1. Suivez notre [compte Telegram](lien_vers_telegram) pour les dernières mises à jour.
-2. Préparez vos BNB pour la phase de distribution à prix libre.
-3. Restez à l'écoute pour l'annonce de l'AirDrop.
-4. Partagez l'information avec vos amis et rejoignez la communauté Sock Coin !
+1. Follow our [Telegram account](link_to_telegram) for the latest updates.
+2. Prepare your BNB for the free-price distribution phase.
+3. Stay tuned for the AirDrop announcement.
+4. Share the information with your friends and join the Sock Coin community!
 
-## Liens Utiles
+## Useful Links
 
-- [Site Web Officiel](lien_vers_site_web)
-- [Telegram](lien_vers_telegram)
-- [Twitter](lien_vers_twitter)
-- [Discord](lien_vers_discord)
+- [Official Website](link_to_website)
+- [Telegram](link_to_telegram)
+- [Twitter](link_to_twitter)
+- [Discord](link_to_discord)
 
-## Avertissement
+## Disclaimer
 
-Investir dans les crypto-monnaies comporte des risques. Veuillez faire vos propres recherches et n'investissez que ce que vous pouvez vous permettre de perdre.
+Investing in cryptocurrencies involves risks. Please do your own research and only invest what you can afford to lose.
