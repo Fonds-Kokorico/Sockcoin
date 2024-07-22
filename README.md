@@ -1,10 +1,9 @@
-# Sockcoin
-
+# White Paper - Sock Coin
 
 
 ![Sock Coin Banner](https://github.com/Fonds-Kokorico/Sockcoin/blob/bf8faf68f332aa851d06b520869e9a9a15816808/Kokorico.png)
 
-## White Paper - Sock Coin
+
 
 ### Welcome to the World of Sock Coin: The Stylish Meme Coin Serving Its Community! 🎉
 
